@@ -51,9 +51,12 @@ def populate():
         {
             'name': 'ODEON Braehead', 'picture': 'images/breadhead.jpg', 'visit': 222
         },
-        {
-            'name': 'ODEON Braehead wes', 'picture': 'images/ODEON Luxe Glasgow Quay.jpg', 'visit': 226
-        },
+        {
+            'name': 'Vue Cinema Glasgow Fort', 'picture': 'images/VueCinemaGlasgowFort.jpg', 'visit': 226
+        },
+        {
+            'name': 'EverymanGlasgow', 'picture': 'images/EverymanGlasgow.jpg', 'visit': 226
+        },
 
     ]
 
